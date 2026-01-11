@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 你好，我是 Dave
 
-<!--
-**Dave66700/Dave66700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 游戏开发方向（Unity + C#）学习者  
+📍 目标：**游戏开发实习 / 游戏程序方向**
 
-Here are some ideas to get you started:
+目前正在进行一段 **60 days自我训练计划**，系统提升：
+- Unity 项目实战能力
+- C# 编程
+- 数据结构与算法（LeetCode 笔试）
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 技术栈
+
+- **语言**：C#、C++
+- **引擎**：Unity
+- **方向**：2D / 玩法逻辑 / 基础 AI / UI
+- **算法**：数组、哈希表、栈、队列、链表、二叉树、DFS / BFS
+
+---
+
+## 🚀 项目作品
+
+//嘻嘻，我会添加的，相信我
+
+---
+
+## 📚 学习记录
+
+
+---
+
+## 📅 60 天训练目标
+
+- 能独立完成 Unity 小型游戏原型
+- 掌握常见游戏逻辑系统
+- 具备算法笔试基础解题能力
+- 用于申请游戏开发相关实习
+
+---
+
+## 📫 联系方式
+
+- GitHub：https://github.com/Dave66700
+
+---
+
+> 📌 本主页内容为本人独立学习与项目实践记录，持续更新中。
